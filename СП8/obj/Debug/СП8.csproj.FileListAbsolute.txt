@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\СП8\СП8\bin\Debug\СП8.exe.config
+C:\Users\CoFFey\source\repos\СП8\СП8\bin\Debug\СП8.exe
+C:\Users\CoFFey\source\repos\СП8\СП8\bin\Debug\СП8.pdb
+C:\Users\CoFFey\source\repos\СП8\СП8\obj\Debug\СП8.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\СП8\СП8\obj\Debug\СП8.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\СП8\СП8\obj\Debug\СП8.Form1.resources
+C:\Users\CoFFey\source\repos\СП8\СП8\obj\Debug\СП8.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\СП8\СП8\obj\Debug\СП8.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\СП8\СП8\obj\Debug\СП8.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\СП8\СП8\obj\Debug\СП8.exe
+C:\Users\CoFFey\source\repos\СП8\СП8\obj\Debug\СП8.pdb
